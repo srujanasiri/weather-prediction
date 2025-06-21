@@ -40,6 +40,6 @@ We used *Logistic Regression* for classification, achieving good accuracy on tes
 - Build a GUI for easy use
 
 ## 👩‍💻 Author
-- Srujana 
+- Srujana -intern at hunar intern
 
 
